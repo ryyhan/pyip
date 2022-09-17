@@ -4,11 +4,11 @@
 
 ## Screenshots :
 
-![This is an image](https://github.com/Jbediah/Jbediah/blob/main/Screenshot%20(41).png)
+![This is an image](https://github.com/Jbediah/Jbediah/blob/main/Screenshot%20(44).png)
 
-![This is an image](https://github.com/Jbediah/Jbediah/blob/main/Screenshot%20(42).png)
+![This is an image](https://github.com/Jbediah/Jbediah/blob/main/Screenshot%20(45).png)
 
-![This is an image](https://github.com/Jbediah/Jbediah/blob/main/Screenshot%20(43).png)
+![This is an image](https://github.com/Jbediah/Jbediah/blob/main/Screenshot%20(46).png)
 
 ## Description :
 
